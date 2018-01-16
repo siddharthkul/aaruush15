@@ -1,0 +1,13 @@
+
+<p class="roundhead">Round 1: SHOOT&#39;EM UP</p>
+<p class="round">Deductive reasoning tests are designed to measure your ability to draw logical conclusions based on statements or arguments. So show your skills, get the guns and Shoot&#39;em Up.
+</p>
+<p class="roundhead">Round 2: BULLS EYE </p>
+<p class="round">Challenges are like a game of darts, so the best target and aim one can ever look and shoot at is the Bull&#39;s Eye. Show your accuracy and chase the target. </p>
+<p class="roundhead">Round 3: WHO AM I??</p>
+<p class="round">The less you reveal, the more people can wonder.so think out of the box, analyze and identify who am I???</p>
+<p class="roundhead">Round 4: TRUE DETECTIVE</p>
+<p class="round">The mystery of life is not a problem to be solved but a reality to be experienced. So experience this reality to be a true detective.</p>
+<p class="roundhead">Round 5: ROGUE AGENT </p>
+<p class="round">Don&#39;t stop when you are tired, stop when you are done. It&#39;s like a hunt, in a way, and you&#39;re a Rogue Agent.</p>
+

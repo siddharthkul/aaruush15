@@ -1,0 +1,13 @@
+
+<p class="roundhead">Round 1: Spectrophobia</p>
+<p class="round">Let&#39;s put in a test to see how smartly your brain works in order to trick all the  ghost in here. So gear up and think fast.
+</p>
+<p class="roundhead">Round 2: SPOOKY MINUTES </p>
+<p class="round">The teams here will be exploited for their skill to complete tasks effectively to outsmart  the brainy minions.</p>
+<p class="roundhead">Round 3: Keen eyes</p>
+<p class="round">Spotting these creepy creatures will not be enough you got to see how they move.. </p>
+<p class="roundhead">Round 4: Bust em&#39; all</p>
+<p class="round">Well let us put in a final test and see  how well you pass it before you move in to the final arena.</p>
+<p class="roundhead">Round 5: Bloodline </p>
+<p class="round">Get ready to the final showdown and prepare yourself for a face off with those spooky ones.</p>
+

@@ -1,0 +1,8 @@
+
+<p class="roundhead">Round 1</p>
+<p class="round"> Comprises of the unpretentious and fun with	filled 12 checkpoints</p>
+<p class="roundhead"> Round 2</p>
+<p class="round"> To bring in the heat of competition this round comprises of all the evaluation of the technical knowledge and skill of the participants. It comprises of 8 checkpoints of which both electronics and electrical domain are covered. </p>
+<p class="roundhead">Round 3</p>
+<p class="round">To conquest the grand prize of the event participants are tested with programming languages that they come across in their curriculum and arduous checkpoints related to electrical and electronics.</p>
+

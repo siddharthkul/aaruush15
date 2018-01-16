@@ -1,0 +1,6 @@
+<ul class="rules">
+<li>Taking any kind of help will result in immediate disqualification.</li>
+<li>There should be no access of internet during the event.</li>
+<li>The event will be qualified only if it is done in the given time.</li>
+<li>Aaruush15 common registration should be done compulsory.</li>
+</ul>

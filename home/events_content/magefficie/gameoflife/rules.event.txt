@@ -1,0 +1,10 @@
+
+<ul class="rules">
+<li>Every participant should go through the common registration </li>
+<li>the budget for the rounds will be given by the event coordinators</li>
+<li>the use of all type of electronic devices are permitted.</li>
+<li>no extra time will be awarded to the teams </li>
+<li>the participants should be present at the venue a prior of 20minutes .</li>
+<li>the judge-ment should be accepted at any point of time.</li>
+<li>the wild card entries should produce proof .</li>
+</ul>

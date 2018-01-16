@@ -1,0 +1,9 @@
+<ul class="rules">
+<li>The participants participate individually in the event</li>
+<li>Cell phones should not be operated during the event</li>
+<li>The participants are not allowed to browse the internet during the event</li>
+<li>If a round is held in multiple sessions, an eligible participant is only allowed to attend a single session.</li>
+<li>The participants should adhere to the task assigned. Deviation from the guidelines will result in penalties in scoring</li>
+<li>If found using any unfair advantages, the participant will forfeit the competition.</li>
+<li> All judgement decisions are final and binding.</li>
+</ul>

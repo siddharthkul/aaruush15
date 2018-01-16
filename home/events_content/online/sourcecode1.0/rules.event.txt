@@ -1,0 +1,5 @@
+<ul class="rules">
+<li>This is an individual contest </li>
+<li>Programming can be done in any language given on the Hackerrank platform</li>
+<li>Scoring given by Hackerrank is final.</li>
+</ul>

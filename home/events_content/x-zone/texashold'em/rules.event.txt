@@ -1,0 +1,12 @@
+<ul class="rules">
+<li>Call: They match the amount of the big blind.Fold: They pay nothing to the pot and throw away their hand, waiting for the next deal to play again. </li>
+<li>Raise: They raise the bet by doubling the amount of the big blind. A player may raise more depending on the betting style being played.  </li>
+<li>Blinds: Short for "blind bets," these are the forced bets made before the cards are dealt. In Hold'em, blinds take the place of the classic "ante."</li>
+<li>Button: Nickname for the player acting as the dealer in current hand. </li>
+<li>Check: Similar to a call but no money is bet. If there is no raise preflop, the big blind may check.7.	Flop: The first three community cards dealt. </li>
+<li>Preflop: Anything that occurs before the flop is dealt is preflop.</li>
+<li>Flop: The first three community cards dealt. </li>
+<li>River: The final (5th) community card dealt; also known as fifth street.</li>
+<li>Showdown: When players reveal their hands to discover the pot's winner. </li>
+<li>Turn: The fourth community card dealt; also known as fourth street.</li>
+</ul>

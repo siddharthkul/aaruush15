@@ -1,0 +1,31 @@
+<p class="roundhead"> Round 1 (Angry Birds)</p>
+<ul>
+<li> RECTANGULAR SHAPED BRICKS OF DIFFERENT SIZES ARE PLACED AND COLOURS ARE GIVEN ACCORDINGLY. PLASTIC BALLS ARE STUCK ON THE BRICKS VERY LIGHTLY. IF THE BRICK FALLS IT LEADS TO A DEDUCTION OF FIVE POINTS.  BOT SHOULD NOT TOUCH THE BORDER. BALL DIMENSIONS 229 mm in circumference.
+</li>
+</ul>
+<p class="roundhead">Round 2 (Shaolin Soccer)</p>
+<ul>
+<li>In  this round,4 balls are placed randomly in the field, A Robot will be given a maximum of three 
+chances to make a goal. It cannot push the ball into the goal post directly, It has to kick from the minimum position specified. Light Green is the minimum position for the robot to take a hit. LIGHT GREEN FIELD WILL HAVE BOUNDARIES COLOURED,SO THAT IT IS EASILY IDENTIFIED. GOAL POST IN FULL GREEN COLOUR
+
+</li>
+</ul>
+<p class="roundhead">Round 3 (Temple Run)</p>
+<ul>
+<li> 
+The robot has to pass a straight path with obstacles at regular intervals.  Also,there will even be incoming obstacles which the team must be alert of.  The team who reach the end of path in lesstime will gain more points.  Speed breakers, flyovers,oil,sand etc are the obstacles used.
+</li>
+</ul>
+
+<p class="roundhead">Round 4 (Maze Runner)</p>
+<ul>
+<li>The robot should complete the 3D maze passing through different stages. Time is noted down and maximum points are given to the robot which completes maze in minimum time. If the robot touches the walls of maze five points will be deducted. Top four teams will be qualified to next round based on cumulative points of all four rounds.
+</li>
+</ul>
+
+
+<p class="roundhead"> Round 5 (Clash Of Clans)</p>
+<ul>
+<li>Random pits are included in the arena. If the bot falls into the pit, it losses some points. Whichever bot goes out of the circle losses the round. It will be 3 round match between each two teams. If neither of the bots goes outside the circle in the given time, points will be given based on the falls in the pits and hits.
+</li>
+</ul>

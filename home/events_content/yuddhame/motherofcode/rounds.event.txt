@@ -1,0 +1,25 @@
+<p class="roundhead">The Intersection Theory </p>
+<ul>
+<li> You shall win only if you can work together. This round consists of a list of very basic multiple choice questions that each team has to answer separately with in a very limited period of time. The questions will be based on very basic computing. The catch here is that the team will be judged based on the number of answers that match. The teams with maximum matches advances to the next round.</li>
+</ul>
+<p class="roundhead">Code Junk</p>
+<ul>
+<li> Ranging from Morse and quantum cryptography to hieroglyphs, we have always struggled to encrypt and protect secrets. Find the lines to your program from a large set of random and intensely jumbled lines
+</li>
+</ul>
+<p class="roundhead">The  Show-Down</p>
+<ul>
+<li> 
+ Find your rivals and code them to death. Sets of two teams are disclosed with a moderate level question and asked to code simultaneously. Once they reach the 10 line denominator, they are fired with constant questions and have to deal with it while keeping up their coding. 
+</li>
+</ul>
+<p class="roundhead">Code Tycoon</p>
+<ul>
+<li>Are you a code entrepreneur? Can you code, finance and develop business at the same time? You&#39;re in the right place. Code your programs by buying the code components using virtual money. Lesser the amount of money you use, better are your chances in advancing to the finale.
+</li>
+</ul>
+<p class="roundhead">Numero Uno </p>
+<ul>
+<li>Electronics.Programming.Suspense. They all run together. Become the ultimate champion by facing the most crucial, yet simple programming tasks. Embed another jewel into your programming crown through perseverance and the right attitude.
+</li>
+</ul>

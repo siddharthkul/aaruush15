@@ -1,0 +1,24 @@
+
+<p class="roundhead">Round 1: ARRANGEO AIRPORTO </p>
+<ul>
+<li>In this round participants will be given broken pieces of airport model which will be jumbled made of cardboard.</li>
+<li>	Then the participants will be given 5 minutes to arrange the broken pieces of cardboard into an airport shown in the picture.</li>
+<li>	Marks will be awarded accordingly to the percentage of airport arranged by the participants.</li>
+</ul>
+<p class="roundhead">Round 2: GUESSTIMATE </p>
+<ul>
+<li>	The participants has to make a list of all the essential features used for the airport with its cost mentioned.</li>
+<li>	The participants who fulfil all the essential materials required for the airport within the cost given will be qualified.</li>
+<li>	Time limit plays an important role in this round.</li>
+</ul>
+<p class="roundhead">Round 3: ARCHITYPE </p>
+<ul>
+<li>The participants have to draw the layout of the airport in a chart paper obeying all the constraints given. </li>
+<li>	The layout with all the essential structures and the runways with proper measurements will be taken into consideration and accordingly send to the next round.</li>
+</ul>
+<p class="roundhead">Round 4:READY TO FLY </p>
+<ul>
+<li>	Finally the qualified participants have to make the airport projection according to their layout.</li>
+<li>	The runways and the terminals should satisfy the length of the dummy aeroplanes for which the measurements will be projected.</li>
+<li>	The best airport with a good shape and satisfying all the constraints will be awarded.</li>
+</ul>

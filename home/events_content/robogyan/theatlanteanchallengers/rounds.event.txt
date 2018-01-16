@@ -1,0 +1,24 @@
+<p class="roundhead">Hacker&#39;s Shipyard: </p>
+<ul>
+<li>The challenge is set. You have to build a boat along with your crew of 4-5 sailors within two days to start your journey to the Unmasked Land of Destiny. Beat the time and build the best of your ships with your ingenuity and available tech. Bon Voyage!!!
+</li>
+</ul>
+<p class="roundhead">The Endurance:</p>
+<ul>
+<li> 
+You have embarked on a journey on which you can&#39;t turn back. Not only this, Rival crews are too on this.  As you approach the new mysterious land, a violent storm hits you and your crew. Will you survive this race against nature and Time which could eventually lead you to the Atlantis?
+</li>
+</ul>
+<p class="roundhead"> A Maze the Sea:</p>
+<ul>
+<li>The storm has damaged your boat and left you in unknown waters. You are left with one of your crew who is not injured. Buckle up to get your team out of the Maze of the Seas...</li>
+</ul>
+<p class="roundhead">Capt D&#39; Flags:</p>
+<ul>
+<li>Well Done Captain!! You have successfully got your team out of the unknown waters. But now you are low on supplies. Collect the flags to revive your supplies soon to get back on your mission. Time is running out. Get! Set! Go!
+</li>
+</ul>
+<p class="roundhead">Station It:</p>
+<ul>
+<li>You have finally made it. But one last battle stands between you and the land. You need to declare your presence over the land for claiming the land. The task isn&#39;t easy, Rival teams will obstruct you. Can you make your stand to finally be the Ruler of The Atlantis?</li>
+</ul>

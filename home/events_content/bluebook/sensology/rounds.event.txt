@@ -1,0 +1,13 @@
+
+<p class="roundhead">Round 1 - Flavouribility</p>
+<ul>
+<li>Part 1 - This part is about recognizing and remembering distinct fragrances.</li>
+<li>Part 2 - Impairing a person&#39;s sense of smell from the sense of taste vastly affects a person&#39;s perception towards it and we test you on how accurate you can be.</li>
+</ul>
+<p class="roundhead">Round 2 - Feel it! Find it!</p>
+<p class="round">It&#39;s about testing the brain&#39;s capability to recognize and find daily objects in a challenging environment.</p>
+<p class="roundhead">Round 3 – Beep! Beep!</p>
+<ul>
+<li>It&#39;s about focusing on a single thing among various distractions.</li>
+<li>It&#39;s where we mess with your ability to perceive depth and judge the distance of objects in view.</li>
+</ul>

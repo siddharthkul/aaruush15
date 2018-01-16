@@ -1,0 +1,18 @@
+
+<p class="roundhead">Round 1:-Childhood Dairies</p>
+<ul>
+<li>We all have memories and if its childhood we never hesitate to recollect them, so why miss a chance to go back to school days? This will be the first round of &quot;LIFE&quot; where the participant will be a school student and will have to pass scenarios in relation with it.</li>
+</ul>
+<p class="roundhead">Round 2:- College Times</p>
+<ul>
+<li>College days are the best part of anyone&#39;s life. In this round participant will have to choose his career option (MBA/Engineering) at the start of the game. Then he will have to pass the scenarios of his college life and finally gets a job by choosing a card from 5 cards displayed which will have the name of the company. There will be two no scene steps at the end, where the participant will have to pick a card which will have a positive or negative scenario or the game changing scenarios.</li>
+</ul>
+<p class="roundhead">Round 3:- That&#39;s My Family</p>
+<ul>
+<li> This round deals with the family life of the player. He will have to pass the scenarios based on a family life. He will have to sell his shares the company he is associated with. The will be the implementation of toll bridges in this round. The first participant to cross the toll bridge will own the toll bridge. He will have to collect fares from every other participant who passes that toll bridge</li>
+</ul>
+<p class="roundhead">Round 4:-The Dream Job</p>
+<ul>
+<li> Entrepreneur, the dream of every professional to be the leader of his own life and yes in this round participant will start his own business and eventually become an entrepreneur followed by a business magnet. The winner of this round and the event will be the first participant to reach Business Typhoon stage.</li>
+</ul>
+

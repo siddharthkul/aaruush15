@@ -1,0 +1,2 @@
+<p class="intro">A journey all the way towards interesting mind scratching episodes of coding and algorithms with sack full of new challenges based on realities posing a great opportunity for you to prove yourself a coder. Check whether you really stand on this test or not.
+</p>

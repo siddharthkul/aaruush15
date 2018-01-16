@@ -1,0 +1,7 @@
+
+<p class="roundhead">Round 1</p>
+<p class="round">Drawing Of Isometric view of The given model in an A4 Sheet or Chart Paper.</p>
+<p class="roundhead">Round 2 </p>
+<p class="round">Drawing The Front, Top and Side Views Of The Given Orthographic Projections In AutoCadd Software</p>
+<p class="roundhead">Round 3</p>    
+<p class="round">Creation Of Orthographic Models In Solidworks Software.</p>

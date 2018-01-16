@@ -1,0 +1,18 @@
+<p class="roundhead">ROUND 1: The Secret</p>
+
+
+<p class="round">The teams gear up for their interstellar expedition bydecoding a binary code to explore the biggest kept secret in the world.
+
+
+<p class="roundhead">ROUND 2: Asteroscape</p>
+<p class="round">As they reach the Aaruush Space Agency (ASA) the teams are provided a RC space shuttle to make their way through the asteroids to Saturn.
+<p class="roundhead">ROUND 3: Extra Terrestrial</p>
+<p class="round">
+The teams recalibrate their space cycle and go to three planets and choose the most habitable planet, setting off for their final endeavour.
+
+
+<p class="roundhead">ROUND 4: The Higher Dimension</p>
+<p class="round">
+One of the teammates sendscrucial information from the black hole through Morse code which is used by the other teammate to establish intergalactic communication to the base. <br>
+The mission is accomplished.
+

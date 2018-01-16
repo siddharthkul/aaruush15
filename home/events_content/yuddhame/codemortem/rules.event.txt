@@ -1,0 +1,8 @@
+<ul class="rules">
+<li>Participants have to register with a team of two members only. </li>
+<li>Any type of electronic gadgets and mobile phones are not allowed inside the event venue. </li>
+<li>There is no need of bringing any type of paper or any accessories, if needed will be provided at the venue</li>
+<li> Any kind of misconduct or misbehaviour with any participant or any committee member or volunteer will let him/her out of the event.</li>
+<li> If any participant found to be involved for the damage or missing of any lab items or systems like pc, mouse, etc. will be responsible for that.</li>
+<li> The result announced by event team will be final.</li>
+</ul>

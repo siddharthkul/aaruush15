@@ -1,0 +1,31 @@
+<ul class="rules">
+<h4> Round 1:  The Intersection Theory</h4> 
+<li>Both the team members will be provided a set of multiple choice questions but he/she won&#39;t be allowed to discuss the question with the other team mate</li>
+<li>The team members will be seated separately and they have to find the answers.</li>
+<li>The answers should be correct and matching.</li>
+<li>The decisions of the organizers will be final</li>
+
+<h4> Round 2:  Code Junk</h4> 
+<li>The code cannot be written it must be copied from the set of junk code given to them.</li>
+<li>The decisions of the organizers will be final.</li>
+
+<h4> Round 3: The Showdown</h4>
+<li>Two team will be given same moderate level coding question</li>
+<li>If teams tie to complete the program they will be judged on their algorithm and coordination and also on the number of viva questions they answer. </li>
+<li>The decisions of the organizers will be final</li>
+
+<h4> Round 4: Code Tycoon</h4> 
+<li>All the teams will be given same level of moderate questions.</li>
+<li>They will be provided with a price list of the coding components according to their choice of language</li>
+<li>The viva will consist of confusing and time killing questions that falter their judgment of approach.</li>
+<li>The team taking the least amount of money wins the event.</li>
+<li>if teams tie to complete the program they will be judged on their algorithm and coordination</li>
+<li>The decisions of the organizers will be final.</li>
+
+<h4> Round 5:Numero uno</h4> 
+<li>All the teams will be given a same question related to Arduino.</li>
+<li>This round will be an open source round.</li>
+<li>The Team taking least time to complete the program will qualify.</li>
+<li>If teams tie to complete the program they will be judged on their algorithm and coordination and also on the extent to which they complete their program.</li>
+<li>The decisions of the organizers will be final.</li>
+</ul>

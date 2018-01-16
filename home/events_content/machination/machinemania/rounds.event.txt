@@ -1,0 +1,10 @@
+
+<p class="roundhead">Round 1:MACHINE MYSTERY </p>
+<p class="round">     In this round the participants will be shown a video regarding basic concepts of science which may include concept of hydraulic lift(Pascal&#39;s Law) , a racing car been thrown out the track at bend etc.</p>
+<p class="roundhead">Round 2:DEVIL&#39;S FORTUNE</p>
+<p class="round">Here the  participants will be clubbed into team of two and two teams will be competing against each other simultaneously. A wheel(the wheel will be containing different topics such as kinematics, free fall etc.) will be rotated by opponent team and the questions  regarding the selected topic are needed to be answer by the team to whom topic is to be assigned. </p>
+<p class="roundhead">Round 3:PUZZLING GEARS </p>    
+<p class="round">Here the students will be provided with some different kind of gears such as spur gear ,worm gear  etc, and are expected to attain a particular output from a stated in input. Student have to complete the task in a given interval of time.</p>
+<p class="roundhead">Round 4:CREATE-TO-INNOVATE</p>
+<p class="round">The final round, forged by the Grand Wizard himself, will leave you dazed. Fix it, bend it or twist it, just create to innovate and become the Machine Maniac!
+</p>

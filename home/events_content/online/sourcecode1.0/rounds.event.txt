@@ -1,0 +1,11 @@
+<p class="roundhead">Prelims</p>
+<ul>
+<li>The first round is an eliminator round. The participant will be presented with a set of problems which must be solved by writing and successfully executing a code</li>
+</ul>
+
+<p class="roundhead">Final</p>
+<ul>
+<li>This round will present the qualifier of round 1 with 6 problems. These problems would be of a higher level than the previous round in terms of technicality and complexity</li>
+</ul>
+
+

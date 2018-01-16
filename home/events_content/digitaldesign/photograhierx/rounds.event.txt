@@ -1,0 +1,9 @@
+<p class="roundhead">Round 1:- logo tag</p>
+<p class="round">A logo and tagline should be designed .</p>
+<p class="roundhead">Round 2:-typo poster </p>
+<p class="round">In this round they have to make a  poster of their own choice .it should be arranged to make written language reading and appealing.</p>     
+<p class="roundhead">Round 3:- jumble tumble </p>
+<p class="round">They have to jumble the tagline and they have to give new tagline which is suitable for that logo.</p>
+<p class="roundhead">Round 4:-ad guru</p>
+<p class="round">In this round they need to make advertising video for tha logo and tagline. </p>
+

@@ -1,0 +1,12 @@
+
+<p class="roundhead">Round 1 : Name It</p>
+<ul>
+<li>Phase-1:The participants need to identify monuments shown to them by the projector. Each monuments will be displayed for 10 seconds.</li>
+<li>Phase-2:In this phase participants are shown some amazing architectural designs or    construct and they need to answer the reason because of which they are still standing upright their stability.</li>
+</ul>
+<p class="roundhead">Round 2 : White House</p>
+<p class="round">In this round participants had to build the structure using chalk pieces. The chalk pieces will be carved from the sides to form a block like structure. The structure or model being made should be stable.</p> 
+<p class="roundhead">Round 3 : Skyscraper</p>    
+<p class="round">This round brings out the hidden creativity of the participants.They need to make a stable structure with the random things provided to them. They need to keep in mind that it should be at least 4 ft. in height</p>
+<p class="roundhead">Round 4 : </p>
+<p class="round">        The final round gives the practical experience of the architectural world in the form of fun event. In this the participants had to make a project on an architectural design given to them. For example, If they need to design a shopping complex, then they have to first browse the architectural designs of the kind of windows, stairs , etc. they would like to have in their model. Then they will build a model which will have design of windows, stairs, etc. similar to the one they browsed..</p>

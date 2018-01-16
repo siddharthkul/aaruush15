@@ -1,0 +1,18 @@
+
+<p class="roundhead">Round 1:-Bidding Bosses</p>
+<ul>
+<li>Be the CEO of your own company and take your company to new heights. Experience the fantasy world of bidding and employ the best staff.</li>
+</ul>
+<p class="roundhead">Round 2:- Cranky allies</p>
+<ul>
+<li>Your company gets turned into a huge MNC. Collaborate , negotiate and battle your way through the corporate world.</li>
+</ul>
+<p class="roundhead">Round 3:- The industrial age</p>
+<ul>
+<li> You get kicked off from your company. Take the revenge and set up your own industry from the scratch</li>
+</ul>
+<p class="roundhead">Round 4:-Stocks at stake</p>
+<ul>
+<li>Time for the final face off. Step out in the real market. Invest , trade and become the wolf of wall </li>
+</ul>
+

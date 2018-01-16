@@ -1,0 +1,26 @@
+<table border='0'>
+<tr>
+<td>P.R.S.LOKESH  </td>
+<td>contact:9500048990</td>
+</tr>
+<tr>
+<td>C.CHANDANA  </td>
+<td>contact:7708498564</td>
+</tr>
+<tr>
+<td>B.SINDHUJA</td>
+<td>contact:-9962647319</td>
+</tr>
+
+<tr>
+<td>A.VINOD</td>
+<td>contact:-9962649700</td>
+
+</tr>
+
+<tr>
+<td><b>E-mail : </b>sumoslammers123@gmail.com</td>
+</tr>
+
+
+</table>

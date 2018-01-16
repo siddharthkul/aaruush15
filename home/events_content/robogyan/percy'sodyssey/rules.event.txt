@@ -1,0 +1,9 @@
+<ul class="rules">
+<li> Maximum 30 x 30 x 30 cm dimension </li>
+<li>Bot should equipped with Line Follower and Obstacle Avoider</li>
+<li> Track width of 3cm for line follower	</li>
+<li> Weight Limit of 3kg (inclusive of battery weight) </li>
+<li> No IC Engines allowed  </li>
+<li> Please go through <a href="events_content/robogyan/percy'sodyssey/rulebook.pdf" target="_blank">RULEBOOK</a>
+</li>
+</ul>

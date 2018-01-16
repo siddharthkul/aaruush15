@@ -1,0 +1,9 @@
+
+<p class="roundhead">Round 1 - Rational Senses</p>
+<p class="round">Enter an environment that pushes your senses to the limit, challenge you to bring out the 
+best of your abilities to move ahead through the wilderness.
+</p>
+<p class="roundhead">Round 2 - Mind vs Wild</p>
+<p class="round">Riddles and Darts are the game; how prolific are you?</p>
+<p class="roundhead">Round 3 - Quizjack</p>
+<p class="round">It doesn&#39;t get tougher than this. The last hurdle to the top of the podium.</p>

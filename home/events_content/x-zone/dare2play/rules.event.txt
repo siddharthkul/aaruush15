@@ -1,0 +1,11 @@
+<ul class="rules">
+<li>	Required number of rubber bands must be collected. </li>
+<li>	The transfer of liquid must be measured</li>
+<li>	The term can only start playing if they get a six on throw of a die</li>
+<li>	If both the team members fail to perform a task given during the gameplay the team is eliminated.</li>
+<li>	A new team can replace in time of crisis.</li>
+<li>	Entry task should be performed.</li>
+<li>	Exit task should be performed.</li>
+<li>	No. of flags collected in arena carry different points. </li>
+<li>Time will be noted in most of the rounds</li>
+</ul>

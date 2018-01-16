@@ -1,0 +1,8 @@
+
+<p class="roundhead">Round</p>
+<ul>
+<li>The app has two types of rebuses: hidden and visible. Solving a visible rebus unlocks a clue to solving a hidden rebus. Levels are incremented on solving the hidden rebuses
+</li>
+</ul>
+
+

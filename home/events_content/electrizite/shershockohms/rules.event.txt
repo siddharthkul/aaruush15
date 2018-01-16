@@ -1,0 +1,7 @@
+<ul class="rules">
+<li>Participants are not allowed to use calculator or any gadget of such form in checkpoints involved in testing arithmetic skills.   </li>
+<li>Participants are given a stipulated time for each event and they have to report to the coordinator in the stipulated time. Late comers are disqualified.</li>
+<li>Participants should report to the coordinator each event to get qualified for the next round, failing which they are disqualified. </li>
+<li>In case of a team both the participants should be present for the entire event, if one of the member is found absent the team is disqualified.</li>
+<li>Participants are required to clear a minimum number of checkpoints each to qualify to the next round. (Round 1- 9 out of 12, Round 2- 7 out of 8, Round 3- Best of 4)  </li>
+</ul>

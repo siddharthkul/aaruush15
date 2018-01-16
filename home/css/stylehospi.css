@@ -1,0 +1,148 @@
+body{
+	background: url("../images/bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat; 
+	overflow: hidden;
+}
+section{
+	margin-top: -3px;
+	overflow-y:visible; 
+}
+nav{
+	background-color: #383838;
+	height: 40px;
+}
+.bg-circle{
+	width: 50px !important;
+	height: 50px !important;
+	border-radius: 50%;
+	background-color: #00b4ff;
+	margin-left: 20px;
+	margin-right: 0px;
+}
+.bg-circle:hover{
+	cursor: pointer;
+}
+.shift-below-right{
+	margin-top:5px;
+}
+#accomodation-div{
+	margin-top: 70px;
+	border-top: 4px solid #383838;
+	border-bottom: 4px solid #383838;
+	border-left: 10px solid #383838;
+	border-right: 10px solid #383838;
+	height: 340px;
+	overflow-y: auto;
+}
+.margin-row{
+	margin-bottom: 0px;
+}
+#accomodation-header{
+	border-top: 32px solid #383838;
+	border-left: 32px solid transparent;
+	border-right: 32px solid transparent;
+}
+#accomodation-header-text{
+	z-index: 2;
+	margin-top: -30px;
+	font-size: 1.4em;
+	margin-left: -12px;
+	text-align: center;
+}
+.acco-content{
+	display: none;
+}
+.show{
+	display: block;
+}
+.map{
+	margin-top: 20px;
+}
+#map{
+	width: 100%;
+	height: 400px;
+}
+textarea{
+	height: 100px;
+}
+#accomodation-icons-div{
+	margin-top: 20px;
+}
+#accomodation-icons-div div.row{
+	margin-bottom: 0px;
+}
+.divider{
+	height: 3px;
+	background-color: #00b4ff;
+}
+.icon-color{
+	color: #fff;
+	margin-top: 15px;
+}
+.fa{
+	font-size: 1.5em;
+}
+.shift-rightm{
+	margin-left: 6px;
+}
+.shift-righte{
+	margin-left: 3px;
+}
+.dotted-right{
+	float: right;
+	width: 50px;
+	height: 25px;
+	border-top: dashed #00b4ff;
+	border-right: dashed #00b4ff;
+	margin-top: 30px;
+}
+.dotted-left{
+	width: 50px;
+	height: 20px;
+	border-bottom: dashed #00b4ff;
+	border-left: dashed #00b4ff;
+	
+}
+.right-float{
+	float: right;
+}
+
+/*  MEDIA QUERIES  */
+@media(max-width: 1500px), (max-device-width:1500px){
+	.map-content{
+		width: 100% !important;
+	}
+}
+@media(min-device-width:1920px){
+	section{
+		margin-top: 80px;
+	}	
+	#accomodation-div{
+		height: 450px;
+	}
+}
+
+@media (min-width:1500px){
+	
+	#accomodation-div{
+	margin-top: 90px;
+	height: 350px;;
+}
+}
+
+@media (max-width:1300px){
+	
+	#accomodation-div{
+	margin-top: 60px;
+	height: 280px;;
+}
+}
+
+@media (min-width:1800px){
+	
+	#accomodation-div{
+	margin-top: 100px;
+	height: 500px;;
+}
+}

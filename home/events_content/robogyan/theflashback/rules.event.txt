@@ -1,0 +1,11 @@
+<ul class="rules">
+<li> Maximum 30 x 30 x 30 cm dimension </li>
+<li> Motor Restriction of 500 RPM</li>
+<li> No additional attachments permitted </li>
+<li> Weight Limit of 5kg (inclusive of battery weight) </li>
+<li> No IC Engines allowed  </li>
+<li> Maximum of one 12V Battery, maximum 7.2 Ah (Standard bike battery) </li>
+<li> Bot operation can be wireless or wired  </li>
+<li> Please go through <a href="events_content/robogyan/theflashback/rulebook.pdf" target="_blank">RULEBOOK</a>
+</li>
+</ul>

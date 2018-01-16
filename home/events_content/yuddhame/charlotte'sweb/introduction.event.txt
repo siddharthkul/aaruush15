@@ -1,0 +1,2 @@
+<p class="intro">The event tests the participants in their abilities and knowledge about the operating system and web development. It is a non-coding and mostly web-oriented event but the participants have to prove themselves in trivia, timing themselves and many other interesting but necessary skills. The event is designed in such a way that it becomes more and more challenging as the participants progress. It will be an individual event.
+</p>

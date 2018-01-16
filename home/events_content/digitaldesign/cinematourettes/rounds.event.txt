@@ -1,0 +1,12 @@
+
+<p class="roundhead">Round 1:- guesstimate</p>
+<ul>
+<li>PHASE 1:- A set of slides are given of 5 different languages and they should guess the movie or actor.</li>
+<li>PHASE 2:- A mathematical clue is given the participates need to guess the movie name that relates to it.</li></ul>
+<p class="roundhead">Round 2:- Digital Dumbcharades</p>
+<p class="round">In this a movie should be guessed ,one person in a team should draw the character and other one should guess the movie.</p>     
+<p class="roundhead">Round 3:- flip the script</p>
+<p class="round">In this round they need to change genre of poster from one genre to other genre.</p>
+<p class="roundhead">Round 4:-videogram</p>
+<p class="round">A set of video is  given and they need to use 50% of video and the video should be properly framed to get a meaningful theme.</p>
+

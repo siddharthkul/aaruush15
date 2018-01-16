@@ -1,0 +1,3 @@
+<p class="intro">The event will have two rounds where the contestants will be tested on their photographic skills.
+The event will have two rounds.
+</p>

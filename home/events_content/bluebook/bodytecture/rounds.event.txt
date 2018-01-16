@@ -1,0 +1,10 @@
+<p class="roundhead">ROUND 1: CHOOSE YOUR MOVE</p>
+<p class="round">     In this round participants will be given a riddle which they have to solve , after which they would be given a related task to perform. According to their performance they would be selected for the next level. Participants should be in pair</p>
+<p class="roundhead"> ROUND 2: APT AND RAPT</p>
+<p class="round">LEVEL 1:  in this level the participants have to predict the range of different essential components,  elements,   organelles,  etc  that plays pivotal role in our body which will be displayed on the board. </p>     
+<p class="round">Level 2:   This level  comprises  of rapid fire. the rapid fire consists of  questions related to different organ systems.  the selected participants from the above level will have liberty to choose from the given options</p>
+<p class="roundhead">ROUND 3: THE HUNT IS ON</p>
+<p class="round">In this round the students will get a chance to test their management and the biological skills at the same time. The round will test your knowledge of the organs in the human body and you will get to know what organs you prefer. The round is all about grabbing the opportunity and quick thinking and calculations so be ready because the hunt is on.</p>
+<p class="roundhead">ROUND 4: IMAGINATION AT WORK</p>
+<p class="round">This round will test all the skills that you have in a race against time to uncover the mysteries of the human body.</p>
+

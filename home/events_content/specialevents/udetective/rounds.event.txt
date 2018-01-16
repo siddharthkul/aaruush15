@@ -1,0 +1,31 @@
+﻿<p class="roundhead">ROUND- 1 Art of deduction</p>
+This round comprises two parts which are aimed at testing individual credibility, integritity and retrospection.
+<p class="round"><b>BAD FAITH</b></p>
+“Belief is inevitable”<br>
+In this part teams will be shown slides may be 5, for 20 seconds each and they will be asked to form a caption for it respectively .Depending upon the height of relevancy of caption to the following slides, participants will be marked
+
+<p class="round"><b>SHADOW OF DOUBT</b></p>
+“When the dark clouds of doubt, anger or worry begin to move upon you, steady yourself in the knowledge that in time, the storm will pass.”<br>
+ Teams will be provided with a glimpse of a law proceedings based on which they have to judge       the guilty one.
+
+
+<p class="roundhead">ROUND-2 sleight of hand</p>
+Gear up guys, coz the game is about to begin.
+
+
+<p class="round"><b>LEVERAGED</b></p>
+
+“The little things are infinitely the most important.”<br>
+
+Teams will be provided with a password, and a leverage of clues that will help them to hack the code.Do not worry guys its part of ethical hacking :P. 
+<p class="round"><b>NOT JUST A  PRETTY FACE</b></p>
+Ahhhh….so the mystery thicknens!<br>
+Participants will be sent to a messed room, where already a crime has been committed and they have to find list of the unusual items related to crime. 
+
+
+<p class="roundhead">ROUND-3 THERE ARE NO HAPPY ENDINGS </p>
+<p class="round">
+<ul>
+<li>The participants will be given a list of the history’s most gruesome murders and serial killers the team will be given a case file and a map of the crimes committed by the person.. the participants will have to think like a investigator to solve the crime..Participants have to prepare a case file regarding a murder.</li>
+<li>Participants will have to find solve a murder mystery using necessary lab tests.</li>
+</ul>

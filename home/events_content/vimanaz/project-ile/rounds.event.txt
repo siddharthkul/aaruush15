@@ -1,0 +1,26 @@
+<p class="roundhead">Round 1:-Rain of fire </p>
+<ul>
+<li>Make your models cruise longer with just a bit of propulsion!
+Judgement criteria:
+ More a team successfully lands these rockets on opposition turf, more they have probability to win.
+ </li>
+</ul>
+<p class="roundhead">Round 2:-Pick me up</p>
+<ul>
+<li>Reveal the knowledge of the aircrafts and their systems and let it boost your speeds.
+Judgement criteria: Each participant will be evaluated how precise the parts of the aircrafts have been recognized and connected
+</li>
+</ul>
+<p class="roundhead">Round 3:-Fuel Crisis</p>
+<ul>
+<li> Help get more fuel for more endurance in your twisted journey.
+Judgement criteria : the team which clears  the maze in least time wins this round.
+</li>
+</ul>
+<p class="roundhead">Round 4:-FLY-A-SIGN</p>
+<ul>
+<li>  Fabricate your capsules and land safe also get ready to shoot up high in the altitudes!
+Judgement Criteria:
+The team that scores the highest points cumulatively in both activity wins the entire event.
+</li>
+</ul>

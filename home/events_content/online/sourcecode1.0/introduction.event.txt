@@ -1,0 +1,3 @@
+<p class="intro">&quot;Talk is cheap. Show me the code.&quot; Linus Torvalds minced no words while he made that statement. 
+	For those who think of themselves as problem solvers and all the code freaks out there, Aaruush&#39;15 presents Source Code 1.0, a platform for you to walk the talk and prove your mettle. This event can prove to be an exciting journey that will culminate with a sense of self approval. 
+	Source Code is also a great opportunity for aspiring coders, the ones who need a little thrust of confidence. Problem solving and coding can be your forte too. This is your chance to boost your confidence and find that coder in you. Source Code could be the event that gives you that confidence to code which could change your life forever.</p>

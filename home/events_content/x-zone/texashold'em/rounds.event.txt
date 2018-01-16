@@ -1,0 +1,7 @@
+<p class="roundhead"></p>
+<ul>
+<li>The person dealing the cards deals to the left of the player with the dealer button first, rotating around the table in a clockwise manner, giving each player one card at a time until each player has two cards. These are known as your hole cards.
+A hand of Hold'em consists of a minimum of one and a maximum of four betting rounds. A hand ends when all players but one have folded, or the fourth and final betting round completes with multiple players still in the hand - whichever comes first.
+</li>
+</ul>
+

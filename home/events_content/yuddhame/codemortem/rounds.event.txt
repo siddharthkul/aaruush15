@@ -1,0 +1,25 @@
+<p class="roundhead">Quizzup </p>
+<ul>
+<li>A basic or you can say a fundamental quiz PROGRAMMED in the form of multiple choice questions related to different interest you have in technology and computers plus having some tests for checking how much you are in touch with it.</li>
+</ul>
+<p class="roundhead"> CodificaSituazione:</p>
+<ul>
+<li> This is basically derived from our real live situation or technically we can say the logical conditions and situations, it&#39;s like getting aware of all the conditions, barricades for the path to be followed and just to get an algorithm of what, when and where you decide to go and follow which path.
+</li>
+</ul>
+<p class="roundhead">CazaCodigo:</p>
+<ul>
+<li> 
+ If you ever played treasure hunt plus you also having interest in knowing some extra things which you can do in computers plus programming, then it&#39;s the right platform for you. Here you&#39;ll have to follow some trails and lead the path and get the results all inside a very small place known as PC
+</li>
+</ul>
+<p class="roundhead"> Xcoding:</p>
+<ul>
+<li>Conversing with computer in your known language is easy right, now let&#39;s see how much can you do the same task with an unknown language, coding is still the same, just the way and style has been changed for fun and testing your limits.
+</li>
+</ul>
+<p class="roundhead">Codifica Finale </p>
+<ul>
+<li>Let&#39;s follow the latest technology trend, multi-tasking is the demand of time and people and who is best at it, he is the top achiever skills are the only companion, show it to a platform you are getting here and put them on test plus let&#39;s see how much and in how much time you do that.
+</li>
+</ul>

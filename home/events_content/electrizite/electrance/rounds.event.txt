@@ -1,0 +1,14 @@
+
+<p class="roundhead">Round 1: Crossword</p>
+<p class="round">This round is a crossword based on electrical and electronic devices and components. Each sheet of the crossoword puzzle will  be colour coded. A large range of answers on small strips of paper will be hung from the ceiling of the room, each of which is also colour coded. The participant is required to retrieve the answers of each clue which matches the colour code of their crossword sheet and stick it on it.</p>
+<p class="roundhead"> Round 2: Tick Tock</p>
+<p class="round"> An extremely complicated circuit with a bunch of wires will be kept. The circuit is a hypothetical bomb.  A scenario will be given along with a blueprint of the circuit. A few wires will be short. The objective of the round is to find all the short wire and cut them which will break the circuit and imply the bomb has been diffused. </p>
+<p class="roundhead">Round 3: Ohm Hunt</p>
+<p class="round">The participants will be shown six flash images of electronic devices. He/She will be then asked questions based on those images. For each correct answer the participant will receive a digit which conpletes out to be the resistance value of a colour coded resistor. After obtaining the value, the participant is required to collect the resistor of the colour code of the value which they have to figure out, and go and give it to the assigned committee member. Even if the participant doesn&#39;t get all his asnwers right and doesn&#39;t have the whole value of the resistor, he/she can still guess the colour code of the resistor and complete the task. The resistor obtained by the participant is to be kept safely as it will be used in the 4th round.</p>
+<p class="roundhead">Round 4: Bob the Builder</p>
+<p class="round">Phase 1: The participants will be given a PCB and soldering equipment. They will be asked the to make a given circuit using the PCB. The ones who have carried out the soldering process most neatly and accurately will proceed to Phase 2.</p>
+<p class="round">Phase 2:In this event electrical and electronic components will be given, the participant has to build up a circuit. The participant has to use the resistor he/she retrieved in the second round. The circuit should be completed within the time limit as well as intresting enough to win the prize. 
+The overall perfomance of the particapants in both the phases will judged and the deserving particpant will claim the prize
+Suppose the participant who has qualified for the fourth round obtained a 4 kilo ohm resistor in the second round, these are the possible circuits he/she can design:
+</p>
+

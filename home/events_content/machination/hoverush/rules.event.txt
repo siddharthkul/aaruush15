@@ -1,0 +1,9 @@
+<ul class="rules">
+<li>	The base of the hovercraft should be within the given dimensions.  </li>
+<li>	Maximum of two motors and two propellers can be used in your hovercraft. </li>
+<li>	Max 2 persons per team.
+
+ </li>
+<li>		All decisions made by event coordinators will be final and binding. </li>
+
+</ul>

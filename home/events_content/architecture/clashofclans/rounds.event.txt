@@ -1,0 +1,11 @@
+
+<p class="roundhead">Round 1 : Questions to Counterfeit</p>
+<p class="round">In this round questions will be asked and they have to assume the appearance of answer in a diagrammatic manner.</p>
+<p class="roundhead">Round 2 : Draft Fantasy</p>
+<p class="round">In this round the participant should select a diagram from the
+above round and have to sketch the selected outlook.
+</p> 
+<p class="roundhead">Round 3 : Frame of Mind</p>    
+<p class="round">In this round the outlook you have selected should be build like a proto type in physical manner with the equipments provided by us.</p>
+<p class="roundhead">Round 4 : Cast Un Imperio</p>
+<p class="round"> In this round an empire should be reconstructed using the proto type from the previous round.</p>

@@ -1,0 +1,20 @@
+<p class="roundhead">Round 1:-	JIG-SAW: </p>
+<ul>
+<li>This round is to check the attention paid by wanna-be pilots by re-arranging puzzles.
+ </li>
+</ul>
+<p class="roundhead">Round 2:-	FLIGHT SCHOOL:</p>
+<ul>
+<li>This round is to test the aerodynamic knowledge to the participants as they are required  to construct a simple model with adjustable ailerons, rudders and elevators.
+</li>
+</ul>
+<p class="roundhead">Round 3:-P.A.B.T.(PILOT APTITIUDE BATTERY TEST):</p>
+<ul>
+<li> The final test to check the abilities of participants in a simulated cockpit.The once in a LIFE Time test that a person undergoes to attain the stamp of being a Pilot.
+</li>
+</ul>
+<p class="roundhead">Round 4:-AIR-MISHAP:</p>
+<ul>
+<li>  This round will be testing the analytical skills of our participants pilots as each team will be provided with the situation to which they have assess and give a conclusion.
+</li>
+</ul>

@@ -1,0 +1,13 @@
+
+<ul class="rules">
+<li>	Possession of electronic gadgets are prohibited.   </li>
+<li>	Creating chaos in the event is prohibited, otherwise action will be taken.</li>
+<li>	Possession of ID card is must. </li>
+<li>	Time constraint should be followed.</li>
+<li>Discussing with the other teams members is prohibited. </li>
+<li>	Outside materials are not allowed inside.</li>
+<li>	Silence should be maintained in the event when the projector is on.</li>
+<li>Wastage of materials is strictly prohibited.</li>
+<li>	Participants should stay in the places allotted, moving round the room is not entertained.</li>
+<li>	The decision made by the judges will be ultimate.</li>
+</ul>

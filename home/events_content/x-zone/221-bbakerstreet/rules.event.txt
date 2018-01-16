@@ -1,0 +1,11 @@
+<ul class="rules">
+<li>There should be only two members per team </li>
+<li>Every member of the team has to go through the common registration process of AARUUSH '15 and then register for our event</li>
+<li>Switching of teams would lead to disqualification..</li>
+<li>The coordinators reserve the right for any change in the event. </li>
+<li>Decisions of the team members will be final.</li>
+<li>Some rules for the round will be told at the time of the event..</li>
+<li>Any material given should be handled with care and it should be returned to the coordinators after use.</li>
+<li>The crime scene should not be tampered in any case</li>
+<li>Any form of misbehaviour would not be tolerated and lead to disqualification of the team.</li>
+</ul>

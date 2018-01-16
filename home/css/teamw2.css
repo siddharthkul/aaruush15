@@ -1,0 +1,309 @@
+.ch-item {
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	position: relative;
+	cursor: default;
+	-webkit-perspective: 900px;
+	-moz-perspective: 900px;
+	-o-perspective: 900px;
+	-ms-perspective: 900px;
+	perspective: 900px;
+}
+.ch-info{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-o-transform-style: preserve-3d;
+	-ms-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+.ch-info > div {
+	display: block;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	background-position: center center;
+	-webkit-transition: all 0.4s linear;
+	-moz-transition: all 0.4s linear;
+	-o-transition: all 0.4s linear;
+	-ms-transition: all 0.4s linear;
+	transition: all 0.4s linear;
+	-webkit-transform-origin: 50% 0%;
+	-moz-transform-origin: 50% 0%;
+	-o-transform-origin: 50% 0%;
+	-ms-transform-origin: 50% 0%;
+	transform-origin: 50% 0%;
+}
+
+.ch-info .ch-info-front {
+	box-shadow: inset 0 0 0 8px rgba(0,0,0,0.3);
+	background-repeat: no-repeat; 
+	background-size: 100%;
+}
+
+.ch-info .ch-info-back {
+	-webkit-transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
+	-moz-transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
+	-o-transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
+	-ms-transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
+	transform: translate3d(0,0,-220px) rotate3d(1,0,0,90deg);
+	background: #000;
+	opacity: 0;
+}
+
+.ch-img-1 {
+	background-image: url(https://graph.facebook.com/1557644290/picture?height=180&width=180&type=square);
+	
+}
+
+.ch-img-2 {
+	background-image: url(https://graph.facebook.com/100001244228362/picture?height=180&width=180&type=square);
+}
+
+.ch-img-3 {
+	background-image: url(https://graph.facebook.com/100003981020454/picture?height=180&width=180&type=square);
+}
+
+.ch-img-4 {
+	background-image: url(https://graph.facebook.com/100003350353528/picture?height=180&width=180&type=square);
+}
+
+.ch-img-5 {
+	background-image: url(https://graph.facebook.com/1615585087/picture?height=180&width=180&type=square);
+}
+.ch-img-6 {
+	background-image: url(https://graph.facebook.com/1077371268/picture?height=180&width=180&type=square);
+}
+
+.ch-img-7 {
+	background-image: url(https://graph.facebook.com/1182644166/picture?height=180&width=180&type=square);
+}
+
+.ch-img-8 {
+	background-image: url(https://graph.facebook.com/100003045395364/picture?height=180&width=180&type=square);
+}
+
+.ch-img-9 {
+	background-image: url(https://graph.facebook.com/518185600/picture?height=180&width=180&type=square);
+}
+
+.ch-img-10 {
+	background-image: url(https://graph.facebook.com/100003765140472/picture?height=180&width=180&type=square);
+}
+
+.ch-img-11 {
+	background-image: url(https://graph.facebook.com/1604012338/picture?height=180&width=180&type=square);
+}
+
+.ch-img-12 {
+	background-image: url(https://graph.facebook.com/1138939986/picture?height=180&width=180&type=square);
+}
+
+.ch-img-13 {
+	background-image: url(https://graph.facebook.com/100001145174331/picture?height=180&width=180&type=square);
+}
+
+.ch-img-14 {
+	background-image: url(https://graph.facebook.com/100002910095769/picture?height=180&width=180&type=square);
+}
+
+.ch-img-15 {
+	background-image: url(https://graph.facebook.com/1281086257/picture?height=180&width=180&type=square);
+}
+
+.ch-img-16 {
+	background-image: url(https://graph.facebook.com/100000553571447/picture?height=180&width=180&type=square);
+}
+
+.ch-img-17 {
+	background-image: url(https://graph.facebook.com/100001041371564/picture?height=180&width=180&type=square);
+}
+
+.ch-img-18 {
+	background-image: url(https://graph.facebook.com/100002707128822/picture?height=180&width=180&type=square);
+}
+
+.ch-img-19 {
+	background-image: url(https://graph.facebook.com/100002364175684/picture?height=180&width=180&type=square);
+}
+
+.ch-img-20 {
+	background-image: url(https://graph.facebook.com/1544274177/picture?height=180&width=180&type=square);
+}
+
+.ch-img-21 {
+	background-image: url(https://graph.facebook.com/1469241138/picture?height=180&width=180&type=square);
+}
+
+.ch-img-22 {
+	background-image: url(https://graph.facebook.com/1704069271/picture?height=180&width=180&type=square);
+}
+
+.ch-img-23 {
+	background-image: url(https://graph.facebook.com/100000723895681/picture?height=180&width=180&type=square);
+}
+
+.ch-img-24 {
+	background-image: url(https://graph.facebook.com/100000570378896/picture?height=180&width=180&type=square);
+}
+
+.ch-img-25 {
+	background-image: url(https://graph.facebook.com/100001612342744/picture?height=180&width=180&type=square);
+}
+
+.ch-img-26 {
+	background-image: url(https://graph.facebook.com/100003958004717/picture?height=180&width=180&type=square);
+}
+
+.ch-img-27 {
+	background-image: url(https://graph.facebook.com/1824573528/picture?height=180&width=180&type=square);
+}
+
+.ch-img-28 {
+	background-image: url(https://graph.facebook.com/1566831677/picture?height=180&width=180&type=square);
+}
+
+.ch-img-29 {
+	background-image: url(https://graph.facebook.com/100000316982858/picture?height=180&width=180&type=square);
+}
+
+.ch-img-30 {
+	background-image: url(https://graph.facebook.com/100001420726017/picture?height=180&width=180&type=square);
+}
+
+.ch-img-31 {
+	background-image: url(https://graph.facebook.com/100001099825738/picture?height=180&width=180&type=square);
+}
+
+.ch-img-32 {
+	background-image: url(https://graph.facebook.com/1838239540/picture?height=180&width=180&type=square);
+}
+
+.ch-img-33 {
+	background-image: url(https://graph.facebook.com/1834500806/picture?height=180&width=180&type=square);
+}
+
+.ch-img-34{
+	background-image: url(https://graph.facebook.com/100004518702232/picture?height=180&width=180&type=square);
+}
+
+.ch-img-35 {
+	background-image: url(https://graph.facebook.com/100001149367703/picture?height=180&width=180&type=square);
+}
+
+.ch-img-36 {
+	background-image: url(https://graph.facebook.com/100001056223890/picture?height=180&width=180&type=square);
+}
+
+.ch-img-37 {
+	background-image: url(https://graph.facebook.com/100000986109302/picture?height=180&width=180&type=square);
+}
+
+.ch-img-38 {
+	background-image: url(https://graph.facebook.com/100001741468259/picture?height=180&width=180&type=square);
+}
+
+.ch-img-39 {
+	background-image: url(https://graph.facebook.com/100000071853733/picture?height=180&width=180&type=square);
+}
+
+.ch-img-40 {
+	background-image: url(https://graph.facebook.com/1482541122/picture?height=180&width=180&type=square);
+}
+
+.ch-img-41 {
+	background-image: url(https://graph.facebook.com/100003160981665/picture?height=180&width=180&type=square);
+}
+
+.ch-img-42 {
+	background-image: url(https://graph.facebook.com/100007209481557/picture?height=180&width=180&type=square);
+}
+
+.ch-img-43 {
+	background-image: url(https://graph.facebook.com/1395819206/picture?height=180&width=180&type=square);
+}
+
+.ch-img-44 {
+	background-image: url(https://graph.facebook.com/1517057912/picture?height=180&width=180&type=square);
+}
+
+.ch-img-45 {
+	background-image: url(https://graph.facebook.com/100000057402653/picture?height=180&width=180&type=square);
+}
+
+.ch-info h3 {
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 24px;
+	margin: 0 15px;
+	padding: 60px 0 0 0;
+	height: 110px;
+	font-family: 'Open Sans', Arial, sans-serif;
+	text-shadow:
+		0 0 1px #fff,
+		0 1px 2px rgba(0,0,0,0.3);
+}
+
+.ch-info h4 {
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-size: 18p	x;
+	margin: 0 15px;
+	padding: 60px 0 0 0;
+	height: 110px;
+	font-family: 'Open Sans', Arial, sans-serif;
+	text-shadow:
+		0 0 1px #fff,
+		0 1px 2px rgba(0,0,0,0.3);
+}
+
+.ch-info p {
+	color: #fff;
+	padding: 10px 5px;
+	font-style: italic;
+	margin: 0 30px;
+	font-size: 15px;
+	border-top: 1px solid rgba(255,255,255,0.5);
+}
+
+.ch-info p a {
+	display: block;
+	color: #fff;
+	color: rgba(255,255,255,0.7);
+	font-style: normal;
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: 9px;
+	letter-spacing: 1px;
+	padding-top: 4px;
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.ch-info p a:hover {
+	color: #fff222;
+	color: rgba(255,242,34, 0.8);
+}
+
+.ch-item:hover .ch-info-front {
+	-webkit-transform: translate3d(0,280px,0) rotate3d(1,0,0,-90deg);
+	-moz-transform: translate3d(0,280px,0) rotate3d(1,0,0,-90deg);
+	-o-transform: translate3d(0,280px,0) rotate3d(1,0,0,-90deg);
+	-ms-transform: translate3d(0,280px,0) rotate3d(1,0,0,-90deg);
+	transform: translate3d(0,280px,0) rotate3d(1,0,0,-90deg);
+	opacity: 0;
+}
+
+.ch-item:hover .ch-info-back {
+	-webkit-transform: rotate3d(1,0,0,0deg);
+	-moz-transform: rotate3d(1,0,0,0deg);
+	-o-transform: rotate3d(1,0,0,0deg);
+	-ms-transform: rotate3d(1,0,0,0deg);
+	transform: rotate3d(1,0,0,0deg);
+	opacity: 1;
+}

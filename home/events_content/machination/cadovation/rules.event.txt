@@ -1,0 +1,8 @@
+<ul class="rules">
+<li>Time will be allocated for every person.   </li>
+<li>	If system crashes the person will be allocated with another system with fresh timings.</li>
+<li>Points will be judeged according to the time consumption, correctness and dimensions.
+
+ </li>
+
+</ul>

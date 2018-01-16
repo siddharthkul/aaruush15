@@ -1,0 +1,24 @@
+
+<p class="roundhead">Round 1:FUN RUN</p>
+<ul>
+<li>	The introductory round is a fun game, open to all.</li>
+<li>	It can be anything requiring the participants to be smart and intelligent at the same time.</li>
+<li>	The exact activity will be given and explained on the spot.</li>
+</ul>
+<p class="roundhead">Round 2: DISASTER MANAGEMENT! </p>
+<ul>
+<li>	Engineers who successfully complete the first round are given theopportunity to prove that they our worthy of the chance to make one of the worlds most astounding bridges.</li>
+<li>	They will have to make strong but stable structure with given straws and what would hold them together? Keep guessing!!
+</li>
+</ul>
+<p class="roundhead">Round 3:TRUSS(T)</p>
+<ul>
+<li>	This is the round where one of the most important parts of the bridge , the truss has to be designed It has to be presented on the graph paper and then fabricated using the given materials. </li>
+<li>	Obviously the mayor needs a reason to trust you.</li>
+</ul>
+<p class="roundhead">Round 4:LIVE THE DREAM</p>
+<ul>
+<li>You have proved your mettle as a competent engineer over the lastthree rounds.</li>
+<li>		The mayor is now ready to risk all his money on your mettle.</li>
+<li>		Lets see if you can come good and walk away with the bumper prize which is up for grabs.</li>
+</ul>

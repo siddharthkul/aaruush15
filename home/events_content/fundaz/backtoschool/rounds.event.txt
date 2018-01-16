@@ -1,0 +1,14 @@
+
+<p class="roundhead">Round 1: Kindergarten</p>
+<p class="round"> Welcome to school kids! This is where it all began.
+It starts with a fete, 2 sets of games having 2 games each, choose your favourite! 
+</p>
+<p class="roundhead">Round 2: Culturals</p>
+<p class="round">Music, art, dance, the culturals. The fun mixed with a dash of competition, tests whether you still have what it takes to be the popular kid in school. </p>
+<p class="roundhead">Round 3: Annual Sports day</p>
+<p class="round">We waited for it every year, it is here again. Running and playing till we pant and exhaust. An exhilarating annual sport. On your Mark! Get set! Go!</p>
+<p class="roundhead">Round 4: Classes</p>
+<p class="round">Boring lectures, fun in between classes and unending memories of our classroom, its time to get serious for a while and attend the classes.</p>
+<p class="roundhead">Round 5: </p>
+<p class="round">The Exam & the after party &#45; The year is about to come to an end, and its the finals. Can&#39;t stop thinking about the after parties? Put your thinking caps on. And get ready. For it&#39;s the final countdown.</p>
+

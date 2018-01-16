@@ -1,0 +1,37 @@
+<p class="roundhead">Round1: </p>
+<ul>
+<li> Help Percy in unveiling identity by following the correct path leading to Mr. Grover.</li>
+<li>In this round the bot has to travel the given path in least possible time.
+</li>
+</ul>
+
+<p class="roundhead">Round2 :</p>
+<ul>
+<li> To find the true destinations of the missing pearls .Percy has to cross the forest keeping in mind that he is photophobic, thus avoiding the path obstructed by white light.</li>
+<li>In this round the bot has to cross the grid and reach the other end by finding the correct path and following the same.</li>
+<li>The bot has to cross maximum checkpoints in the grid in minimum time. </li>
+</ul>
+
+<p class="roundhead"> Round 3 :</p>
+<ul>
+<li> Now after acquiring all the pearls, help Percy in arranging the pieces of map which will lead him to this battlefield in the super natural world.</li>
+<li>In this round the length will be given to the participants according to which the path should be designed for which regular shapes will be given</li>
+</ul>
+
+
+<p class="roundhead">Round 4: </p>
+<ul>
+<li> There is a honeycomb maze full of doors awaiting for him. Help him to get through the correct leading to the sword of victory.</li>
+<li>In this round obstacles will be arranged in the honeycomb maze. In each level four gates will be arranged out of which only two gates are opened to the next level.
+</li>
+</ul>
+
+<p class="roundhead">Round 5 : </p>
+<ul>
+<li> Now to win the battle against Zeus he has to make his own way through the obstacles.</li>
+<li>In this round obstacles will be arranged in the arena.</li>
+<li>Participants will be given plus sign to design an obstacle free path. </li>
+</ul>
+
+
+

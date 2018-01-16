@@ -1,0 +1,17 @@
+<p class='roundhead'>STELLAR SPELLAR</p>
+<ul>
+<li>
+&quot;Correct&quot; spelling,  is one of the arts that are far more esteemed by scholars than by practical men, so come spell bee with us..</li>
+</ul>
+<p class='roundhead'>CHROMA-TWIST</p>
+<ul><li>Luck is a matter of preparation meeting opportunity... So here comes the opportunity.. Aim for the colour you aspire...</li></ul>
+<p class='roundhead'>RACE AGAINST TIME</p>
+<ul>
+<li>Words can be a special way of describing ones thought.
+        So come play with words in this fast and accelerating round...</li>
+</ul>
+<p class='roundhead'>CRITIC REVIEW</p>
+<ul>
+<li>From comma to fullstop from spelling to grammar,
+Your editing skills will be under the hammer...</li>
+</ul>	

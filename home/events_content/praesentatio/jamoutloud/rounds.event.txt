@@ -1,0 +1,16 @@
+<p class='roundhead'>Amateurs</p>
+<ul>
+<li>
+Standard JAM rules apply
+</li>
+</ul>
+<p class='roundhead'>Walk the Talk</p>
+<ul><li>Interpret the image and show your creativity and talk about it too</li></ul>
+<p class='roundhead'>Almost There!</p>
+<ul>
+<li>A mixture of mutual dumb charades and brain teasers</li>
+</ul>
+<p class='roundhead'>There!</p>
+<ul>
+<li>A motley of cerebral and spontaneous and humorous oratory skills makes you reach the zenith.</li>
+</ul>	

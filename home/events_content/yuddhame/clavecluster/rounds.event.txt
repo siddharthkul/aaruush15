@@ -1,0 +1,26 @@
+<p class="roundhead">ROUND 1: Do you know it?</p>
+<ul>
+<li>Show off your crossword skills in this short tech- based qualifier round.
+A team of two will have to find 10 technical terms in a crossword puzzle within a stipulated time of 5 minutes. This round will follow throughout the day.</li>
+</ul>
+<p class="roundhead">ROUND 2: THINK IT AGAIN</p>
+<ul>
+<li> 
+Nearly half of the participants will qualify for this round. The participants need to solve algorithm intense coding problems such as 8-queens and knapsack problem. The time limit provided will be 5 intense coding minutes during which the participants may solve as many problems as they can.
+</li>
+</ul>
+<p class="roundhead">ROUND 3: THE CODING STREET</p>
+<ul>
+<li> This is where all core work begins. Team members need to cruise their mind into the board game made by us. You will be given a questionnaire consisting of three levels. Your team needs to choose and solve the given questions and collect maximum points in this level. You will be given 10 die rolls each. Your team will have to be at the best of your coding and problem analysing skills
+</li>
+</ul>
+<p class="roundhead"> ROUND 4:BRING ALL OUT</p>
+<ul>
+<li> The fun-time&#39;s over, it&#39;s time to get serious chap. You along with your team mate will need to solve problems of various programming language as many as you can in 1.5 hour. For the first half an hour you will be given a (score*3) multiplier and the multiplier decreases every half an hour. You&#39;ll need to solve as many questions as you can in order to bag in maximum points. Each question will carry different point which will be multiplied with the multiplier to calculate the total score. Each team member will solve a problem, individually. Here&#39;s a twist, the team members will choose the questions for each other.
+</li>
+</ul>
+<p class="roundhead">ROUND 5: Gambling Champs </p>
+<ul>
+<li>So you think you can win? Not so easy, you need to take risks. Gamble with your hard- earned points in exchange for problems. You&#39;ll have to bid your points in order to grab a question and solving it will rain more points on your team, depending on the level of the question your team decides to pick. Maximum time allotted: 3 hours.
+</li>
+</ul>

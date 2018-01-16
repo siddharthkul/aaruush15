@@ -1,0 +1,366 @@
+/* =============================================================================
+  NAV
+============================================================================= */
+.demo-nav {
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.demo-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.demo-nav li {
+  display: inline-block;
+  margin: 0 2px 4px 2px;
+}
+
+.demo-nav a {
+  display: block;
+  padding: 8px 24px;
+  color: #28aadc;
+  border: solid 2px #28aadc;
+}
+
+.demo-nav a:hover,
+.demo-nav li.active a {
+  color: #fff;
+  background-color: #28aadc;
+}
+
+/* =============================================================================
+  COMPONENT
+============================================================================= */
+.component {
+  text-align: center;
+}
+
+.component__title {
+  margin-bottom: 12px;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+/* =============================================================================
+  ICONS - COMMON
+============================================================================= */
+/**
+ * Icon common styles.
+ *
+ * Set it to block or inline block, whichever suits your needs. Overflow set to
+ * hidden for precautions, and make sure to set the font size to 0 and the text
+ * indent to -9999px. This allows us to actually include text in the markup
+ * which will be good for screen readers and accessibility purposes.
+ */
+.icon {
+  display: inline-block;
+  vertical-align: top;
+  overflow: hidden;
+  margin: 4px;
+  width: 50px;
+  height: 50px;
+  font-size: 0;
+  text-indent: -9999px;
+}
+
+
+/* =============================================================================
+  ICONS - DEMO 5
+============================================================================= */
+.icon-cube1 {
+  position: relative;
+  -webkit-perspective: 800px;
+          perspective: 800px;
+  overflow: visible;
+}
+
+.icon-cube1::before,
+.icon-cube1::after {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../images/nfb.png");
+  background-image: url("../images/nfb.png"), none;
+  content: "";
+  -webkit-transition: all 0.3s;
+          transition: all 0.3s;
+}
+
+.icon-cube1::before {
+  z-index: 2;
+  background-color: #383838;
+}
+
+.icon-cube1::after {
+  z-index: 1;
+  opacity: 0;
+  -webkit-transform: translateY(48px) rotateX(-90deg);
+          transform: translateY(48px) rotateX(-90deg);
+}
+
+.icon-cube1:hover::before {
+  opacity: 0;
+  -webkit-transform: translateY(-48px) rotateX(90deg);
+          transform: translateY(-48px) rotateX(90deg);
+}
+
+.icon-cube1:hover::after {
+  opacity: 1;
+  -webkit-transform: rotateX(0);
+          transform: rotateX(0);
+}
+
+/* facebook */
+.icon-cube1.facebook::before,
+.icon-cube1.facebook::after {
+  background-position: 3px 3px;
+}
+
+.icon-cube1.facebook::after {
+  background-color: #3b5998;
+}
+
+/* twitter */
+.icon-cube1.twitter::before,
+.icon-cube1.twitter::after {
+  background-position: 0 0;
+}
+
+.icon-cube1.twitter::after {
+  background-color: #4099ff;
+}
+
+/* google plus */
+.icon-cube1.googleplus::before,
+.icon-cube1.googleplus::after {
+  background-position: 0px 0;
+}
+
+.icon-cube1.googleplus::after {
+  background-color: #d34836;
+}
+
+/* github */
+
+/*for second cube*/
+
+.icon-cube2 {
+  position: relative;
+  -webkit-perspective: 800px;
+          perspective: 800px;
+  overflow: visible;
+}
+
+.icon-cube2::before,
+.icon-cube2::after {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../images/ntwitter.png");
+  background-image: url("../images/ntwitter.png"), none;
+  content: "";
+  -webkit-transition: all 0.3s;
+          transition: all 0.3s;
+}
+
+.icon-cube2::before {
+  z-index: 2;
+  background-color: #383838;
+}
+
+.icon-cube2::after {
+  z-index: 1;
+  opacity: 0;
+  -webkit-transform: translateY(48px) rotateX(-90deg);
+          transform: translateY(48px) rotateX(-90deg);
+}
+
+.icon-cube2:hover::before {
+  opacity: 0;
+  -webkit-transform: translateY(-48px) rotateX(90deg);
+          transform: translateY(-48px) rotateX(90deg);
+}
+
+.icon-cube2:hover::after {
+  opacity: 1;
+  -webkit-transform: rotateX(0);
+          transform: rotateX(0);
+}
+
+/* twitter */
+.icon-cube2.twitter::before,
+.icon-cube2.twitter::after {
+  background-position: 0 0;
+}
+
+.icon-cube2.twitter::after {
+  background-color: #4099ff;
+}
+
+/*for third cube*/
+
+.icon-cube3 {
+  position: relative;
+  -webkit-perspective: 800px;
+          perspective: 800px;
+  overflow: visible;
+}
+
+.icon-cube3::before,
+.icon-cube3::after {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../images/nyoutube.png");
+  background-image: url("../images/nyoutube.png"), none;
+  content: "";
+  -webkit-transition: all 0.3s;
+          transition: all 0.3s;
+}
+
+.icon-cube3::before {
+  z-index: 2;
+  background-color: #383838;
+}
+
+.icon-cube3::after {
+  z-index: 1;
+  opacity: 0;
+  -webkit-transform: translateY(48px) rotateX(-90deg);
+          transform: translateY(48px) rotateX(-90deg);
+}
+
+.icon-cube3:hover::before {
+  opacity: 0;
+  -webkit-transform: translateY(-48px) rotateX(90deg);
+          transform: translateY(-48px) rotateX(90deg);
+}
+
+.icon-cube3:hover::after {
+  opacity: 1;
+  -webkit-transform: rotateX(0);
+          transform: rotateX(0);
+}
+
+/* facebook */
+.icon-cube3.facebook::before,
+.icon-cube3.facebook::after {
+  background-position: 3px 3px;
+}
+
+.icon-cube3.facebook::after {
+  background-color: #3b5998;
+}
+
+/* twitter */
+.icon-cube3.twitter::before,
+.icon-cube3.twitter::after {
+  background-position: 0 0;
+}
+
+.icon-cube3.twitter::after {
+  background-color: #4099ff;
+}
+
+/* google plus */
+.icon-cube3.googleplus::before,
+.icon-cube3.googleplus::after {
+  background-position: 0px 0;
+}
+
+.icon-cube3.googleplus::after {
+  background-color: #b31217;
+}
+
+
+
+
+.icon-cube4 {
+  position: relative;
+  -webkit-perspective: 800px;
+          perspective: 800px;
+  overflow: visible;
+}
+
+.icon-cube4::before,
+.icon-cube4::after {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../images/insta.png");
+  background-image: url("../images/insta.png"), none;
+  content: "";
+  -webkit-transition: all 0.3s;
+          transition: all 0.3s;
+}
+
+.icon-cube4::before {
+  z-index: 2;
+  background-color: #383838;
+}
+
+.icon-cube4::after {
+  z-index: 1;
+  opacity: 0;
+  -webkit-transform: translateY(48px) rotateX(-90deg);
+          transform: translateY(48px) rotateX(-90deg);
+}
+
+.icon-cube4:hover::before {
+  opacity: 0;
+  -webkit-transform: translateY(-48px) rotateX(90deg);
+          transform: translateY(-48px) rotateX(90deg);
+}
+
+.icon-cube4:hover::after {
+  opacity: 1;
+  -webkit-transform: rotateX(0);
+          transform: rotateX(0);
+}
+
+/* facebook */
+.icon-cube4.facebook::before,
+.icon-cube4.facebook::after {
+  background-position: 3px 3px;
+}
+
+.icon-cube4.facebook::after {
+  background-color: #3b5998;
+}
+
+/* twitter */
+.icon-cube4.twitter::before,
+.icon-cube4.twitter::after {
+  background-position: 0 0;
+}
+
+.icon-cube4.twitter::after {
+  background-color: #4099ff;
+}
+
+/* google plus */
+.icon-cube4.googleplus::before,
+.icon-cube4.googleplus::after {
+  background-position: 0px 0;
+}
+
+.icon-cube4.googleplus::after {
+  background-color: #9b683f;
+}
+
+

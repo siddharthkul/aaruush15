@@ -1,0 +1,11 @@
+<ul class="rules">
+<li>The craft should have a base dimension of 12 x 8 inches  </li>
+<li> Height of the craft is not limited.  </li>
+<li> Only battery powered crafts are permitted in the race. Combustion Engines, Pre-pressurised containers or fluids are prohibited. </li>
+<li> The craft should be remote-controlled type. It can be either wired or wireless based on the participants discretion </li>
+<li> Batteries of any strength are allowed </li>
+<li>All motors and propellers are allowed </li>
+<li>  The body of the craft should not be a part of any pre-fabricated kit. It should be made out by the participants. </li>
+<li> All electronic components conforming to the rules above are permitted. </li>
+<li>  Please go through the <a href="events_content/robogyan/theatlanteanchallengers/rulebook.pdf" target="_blank">RULEBOOK</a></li>
+</ul>

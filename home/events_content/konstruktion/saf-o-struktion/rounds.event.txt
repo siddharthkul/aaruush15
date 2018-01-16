@@ -1,0 +1,29 @@
+
+<p class="roundhead">Round 1:Mind Your Vision</p>
+<ul>
+<li>	The president has only limited funds to save the jewel.</li>
+<li>	So to make sure that only a limited number & best of all engineers are appointed he wants to check how good they actually are.</li>
+<li>	This round  will check how smart your vision is and how logical you are.</li>
+</ul>
+<p class="roundhead">Round 2: Get Set Go </p>
+<ul>
+<li>	After numerous failed attempts to steal the earthquake gun, mojo jojo has now stolen the building components of our engineers to create difficulties for them.</li>
+<li>	You being a smart engineer, have been assigned the work to find those missing components. So, GET SET GO!
+</li>
+<li>	This is a time based treasure hunt so participants will be judged on how fast they find the contents. It will be a time based event.
+</li>
+</ul>
+<p class="roundhead">Round 3:Wooden Armor</p>
+<ul>
+<li>	Mojo jojo has stolen the rocky gun and now he will start throwing rocks on the houses of common men.</li>
+<li>	You have to build strong houses for the common people keeping in mind the fact that they are not rich enough!!</li>
+<li>	Your structural thinking and aesthetics value will be judged.  </li>
+<li>	The efficiency of the structure is tested biased on the team using less sticks while having specified constraints .</li>
+</ul>
+<p class="roundhead">Round 4:Kingdom Of Jewels</p>
+<ul>
+<li>	The real danger is out now!!mojojojo  was successful in stealing the earthquake gun from the national scientific chambers.</li>
+<li>	The engineers now have to build a earthquake proof house which would withstand the shocks of mojo jojo's attacks.</li>
+<li>	teaser: mojo jojo is quite determined to take away the JEWEL! </li>
+<li>	Numerous earthquake shocks will be given to the model which the participants will prepare. The house which will withstand all the attacks.</li>
+</ul>

@@ -1,0 +1,6 @@
+<ul class="rules">
+<li>The event is time bound.   </li>
+<li>Use of internet is allowed, under the surveillance of the coordinators.</li>
+<li>Each participant should concentrate on his/her own task and not intervene in other&#39;s work. </li>
+
+</ul>

@@ -1,0 +1,7 @@
+
+<p class="roundhead">Round 1:Scratch your head</p>
+<p class="round">Are your basics stronger than your rivals? The first round tests the basic engineering knowledge of the participants.</p>
+<p class="roundhead">Round 2:Guess the chunk</p>
+<p class="round">Turn a block of wood into your hovercrafts base with your innovative thinking, within the given specifications and we will let you proceed to the next round. </p>
+<p class="roundhead">Round 3:Design the future</p>    
+<p class="round">All you need to do is, make your hovercraft work with the equipments we provide. Drive your hovercraft through the complicated track and cross the finish line first to bag the prize.</p>

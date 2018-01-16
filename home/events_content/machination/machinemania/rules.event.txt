@@ -1,0 +1,5 @@
+
+<ul class="rules">
+<li>	Max 2 persons per team. </li>
+<li>	All decisions made by event coordinators will be final and binding</li>
+</ul>

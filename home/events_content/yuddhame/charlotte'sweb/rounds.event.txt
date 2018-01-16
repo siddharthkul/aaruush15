@@ -1,0 +1,21 @@
+
+<p class="roundhead">The Quiznos round  </p>
+<ul>
+<li>The first round is an online quiz and serves as a qualifying round. The quiz is designed in such a way that a rapid fire round starts after a random question. The rapid fire round is displayed as a popup div on the main quiz page since the feature is optional. The questions in this rapid fire rounds disappear after a short amount of time. There is also another feature that affects a team member based on the actions of the other team member.</li>
+</ul>
+<p class="roundhead">Designophilia</p>
+<ul>
+<li> This round is basic web designing round where the participant has to make a simple form using HTML & CSS. He may also use additional languages like JavaScript or Bootstrap to make it more attractive but won&#39;t be allowed to use any softwares like Adobe Photoshop, Dreamweaver etc. The marks will be given on the basis of designing done by the participant.
+</li>
+</ul>
+<p class="roundhead">The Matrix </p>
+<ul>
+<li>This round is designed to test the participants and their acumen in solving challenging situations which include querying a database to filter through multiple conditions
+</li>
+</ul>
+<p class="roundhead">The Web Show  </p>
+<ul>
+<li>In this round the participants will be asked to integrate the form designed in round-2 with a database with all functionality. They may add additional features of their own to make the page more appealing but should finish the task within the given time. 
+</li>
+</ul>
+

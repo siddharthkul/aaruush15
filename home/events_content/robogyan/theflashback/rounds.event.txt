@@ -1,0 +1,29 @@
+<p class="roundhead"> </p>
+<ul>
+<li>Hercules is going to test his newly made time machine, but accidently due to some fault he reaches the past. To get back to the future he needs his research papers. Help him find his papers.
+</li>
+</ul>
+<p class="roundhead"></p>
+<ul>
+<li>In this round Hercules searches for his research papers which were misplaced due to crash landing. He tries to move certain obstacles from his path and finally makes it to his research papers.
+</li>
+</ul>
+<p class="roundhead"></p>
+<ul>
+<li> 
+The third round makes Hercules pass through different tests to rebuild his time machine to go back to the future. He has been challenged by questions which will help him rebuild his machine.
+</li>
+</ul>
+
+<p class="roundhead"></p>
+<ul>
+<li>The fourth round comprises of obstacle round in which Hercules is challenged to find the missing equipment which he achieves after crossing many road blocks.
+</li>
+</ul>
+
+
+<p class="roundhead"></p>
+<ul>
+<li>The fifth and the final round is where Hercules finally settles in his time machine. Now Hercules has to face the last and the final challenge of crossing the maze to get back to future.
+</li>
+</ul>

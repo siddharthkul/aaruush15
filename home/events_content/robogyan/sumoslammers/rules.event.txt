@@ -1,0 +1,15 @@
+<ul class="rules">
+<li>Maximum 30 x 30 x 30 cm dimension </li>
+<li>MAXIMUM VOLTAGE 12V </li>
+<li> MOTOR LIMITATIONS 1000 RPM, 10KG.CM TORQUE </li>
+<li>MAXIMUM WEIGHT 10KG </li>
+<li>CONTROL MANUAL</li>
+<li>A team of maximum 4 members.</li>
+<li>Team members need not be students of the same college	</li>
+<li>Robot should be completely manual</li>
+<li>Any violation of rules may lead to reduction in points/disqualification </li>
+<li>Decision of the organizer's is final.</li>
+<li>Same robot to be used in all rounds.</li>
+<li>Please go through <a href="events_content/robogyan/sumoslammers/rulebook.pdf" target="_blank">RULEBOOK</a>
+ </li>
+</ul>

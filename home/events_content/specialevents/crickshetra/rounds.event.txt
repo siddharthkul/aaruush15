@@ -1,0 +1,35 @@
+<p class="roundhead">ROUND-1 BRAIN TUNER"</p>
+<p class="round">
+<ul>
+<li>Here each of the registered team would be given a online web link from which they will be taking the primary test, this link can be accessed from their mobile devices (Any one in the group).</li>
+<li>Link consists of 20 questions which should be answered within 10 minutes.</li>
+<li>Winners of this round would be decided depending on the cut off marks set accordingly.</li>
+<li>	Winners would qualify to round 2.</li>
+</ul>
+
+<p class="roundhead">ROUND- 2 KEEP CALM AND BID ON…."<p class="round">
+<ul>
+<li>	This is the bidding round. Virtual money would be given to each team.</li>
+<li>	Each team must be able to buy 15 players(6-bats men,5-bowler and 4-all rounder’s, and a ground).</li>
+<li>	Each team has to ensure that they have the players in the above proportions at the end of the bidding,failing to do so will result in disqualification from the game.</li>
+<li>	Each player and ground are assigned some set points.</li>
+<li>	The summation of points would decide the winners of this round.</li>
+<li>	Top 50% of the teams would qualify to next round.</li>
+<li>	Pools and players list will be given beforehand.</li>
+</ul>
+
+<p class="roundhead">ROUND-3   THE BATTLE FIELD"
+<p class="round">
+<ul>
+<li>	Here different teams will be grouped under different pools and play card matches will be played randomly according to the draw.</li>
+<li>	Top two teams from each pool will be sent to round four.</li>
+</ul>
+
+<p class="roundhead">ROUND – 4 THE REAL BATTLE"
+<p class="round">
+<ul>
+<li>	This is the final round in which the top 6 teams would be playing a virtual game of cricket based on different arenas.</li>
+<li>	Different set of scenarios and hurdles will be put forward for the teams by the organizing team and the teams should fight their way through those hurdles and score points.</li>
+<li>Player statistics change according to the scenarios.</li>
+<li>winning team will be declared based on their scores and their game play.</li>
+

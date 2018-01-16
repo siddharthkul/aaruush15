@@ -1,0 +1,8 @@
+<ul class="rules">
+<li>The pictures should be in PNG or JPG format and must not exceed size of 30MB </li>
+<li>Photographs must be clicked on a date later than 1st of July</li>
+<li>One without EXIF data will not be accepted</li>
+<li>Photos with watermarks will be rejected.</li>
+<li>Editing of any sort will not be accepted. </li>
+<li>Photographs should be taken with a DSLR. </li>
+</ul>

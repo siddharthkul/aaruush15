@@ -1,0 +1,4 @@
+<ul class="rules">
+<li>Winners are announced on the basis of the number of levels solved by updating their high scores </li>
+<li>Fair play is expected from everyone for a fun filled event.</li>
+</ul>

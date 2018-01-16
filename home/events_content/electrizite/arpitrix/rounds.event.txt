@@ -1,0 +1,10 @@
+
+<p class="roundhead">Round 1: BRAINSTORM</p>
+<p class="round">In the first round we are conducting MCQ based test where we will be testing the participants ability to solving puzzles and their technical knowledge on basic electronics.</p>
+<p class="roundhead">Round 2:CODATHON</p>
+<p class="round">                For those who cleared the first round will get selected to round 2 where they will be asked to   figure out the logic and write a program to get the output and it will be based on basic c and if the participants do not know the language then they can also draw flow chart to explain their logic related to the output required. </p>     
+<p class="roundhead">Round3: Electro blitz</p>
+<p class="round">We will ask them to make circuits based on which round 4 takes place. Where the circuit would be an extension of the arduino based c choosing. Only who clears this round goes to next round or they will be eliminated.</p>
+<p class="roundhead">Round 4: SHOCKDOWN CODA</p>
+<p class="round">                Two tasks will be given to program on a single board computer  (Arduino & raspberry pi ) and those who don&#39;t have konweldge on what is single board computer or how to program on it we will conduct a workshop where we will teach them how to do so and then they can proceed with the task given.</p>
+

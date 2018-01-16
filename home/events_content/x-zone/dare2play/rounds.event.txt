@@ -1,0 +1,18 @@
+<p class="roundhead">Round 1:-Junk In The Trunk</p>
+<ul>
+<li>Are you the fastest and the most precise on handling the junk,well this round would test your abilities. A team of two will enter the arena but will they be able to prove their strength? And qualify for the next round making the way through the trunk?</li>
+</ul>
+<p class="roundhead">Round 2:-Hudo</p>
+<ul>
+<li>Awake the child in you and play Hudo the human ludo. You need to be the same child you once were. Compete and conquer the maze if you can.  Come and overcome the hurdles in the game, compete and conquer the maze if you can.
+</li>
+</ul>
+<p class="roundhead">Round 3:-Mind Sweeper</p>
+<ul>
+<li> So you think you can cross it? Well it&#39;s a lot bigger. With mazes and experience beyond imagination. Welcome to the ultimate challenge of mind boggling fun. If you think you have brains try it out in mind sweeper. The huge plot of the game is for sure, to sweep your mind away, if not come and cross the maze.</li>
+</ul>
+<p class="roundhead">Round 4:-Battle Ground</p>
+<ul>
+<li> So you reached the final round, well this is the ultimate test of your skills. Prove it to win it. From ice to mud, from jump to crawl, from mind to mindless. The battle for the most daring is here. Battle ground shows what you can achieve by pushing your limits. If you can win this one no one can stop you from winning it all. </li>
+</ul>
+

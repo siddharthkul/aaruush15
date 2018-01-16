@@ -1,0 +1,5 @@
+<ul class="rules">
+<li>Use of mobile phones is prohibited</li>
+<li>The rounds will be judged by faculty members and their word will be final</li>
+<li>the event will be played by teams of 2 members</li>
+</ul>

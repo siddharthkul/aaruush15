@@ -1,0 +1,6 @@
+<ul class="rules">
+<li>Required number of rubber bands must be collected. </li>
+<li>Extra time will not be given to participants. </li>
+<li>You have to remember the code given in 1st round </li>
+<li>Round should be completed in given time limit. If everyone is not able to complete the round in specified time .then best people will be selected. </li>
+</ul>
